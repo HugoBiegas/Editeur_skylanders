@@ -1,4 +1,4 @@
-# Skylander Editor v3.0 (Corrigé)
+# Skylander Editor v3.0
 
 Éditeur de fichiers `.sky` pour Skylanders avec détection automatique du jeu d'origine et niveaux maximum adaptatifs.
 

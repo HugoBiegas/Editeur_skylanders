@@ -1,0 +1,66 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+.env/
+.env.bak/
+.env.local/
+
+# ==========================
+# Build / Distribution
+# ==========================
+build/
+dist/
+*.egg-info/
+*.spec
+
+# PyInstaller
+spec/
+SkylanderEditor.spec
+
+# ==========================
+# Logs & temporaires
+# ==========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==========================
+# IDE / Éditeurs
+# ==========================
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# OS
+# ==========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ==========================
+# Fichiers spécifiques au projet
+# ==========================
+# Exécutables générés
+*.exe
+
+# Scripts de build générés
+build_windows.bat
+
+# Dossiers de test ou debug éventuels
+test_output/
